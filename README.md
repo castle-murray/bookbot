@@ -1,2 +1,2 @@
 # bookbot
-thingus
+BookBot is my first project!
